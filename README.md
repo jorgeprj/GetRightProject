@@ -4,7 +4,7 @@
 #### _Read this in other language._
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
 
-Get_Right Project is an esports team management simulation game (at first focused on Counter-Strike: Global Offensive). The idea is for you to be able to create your own manager, assemble your line-up, strategize for each game and even work behind the scenes to transform your organization into the largest esports team in the world. Every decision you make directly affects your team's future.
+Get_Right Project is an e-sports team management simulation game (at first focused on Counter-Strike: Global Offensive). The idea is for you to be able to create your own manager, assemble your line-up, strategy for each game and even work behind the scenes to transform your organization into the largest e-sports team in the world. Every decision you make directly affects your team's future.
 
 # FAQ
 
@@ -45,4 +45,7 @@ Get_Right Project is an esports team management simulation game (at first focuse
 
 Jorge Pires - [@jorgeprj](https://github.com/jorgeprj) - jorgeprj2020@gmail.com
 
-Project Link: [https://github.com/jorgeprj/GetRightProject](https://github.com/jorgeprj/GetRightProjecte)
+Project Link: [https://github.com/jorgeprj/GetRightProject](https://github.com/jorgeprj/GetRightProject)
+
+## Useful Links
+* [Project Wiki](https://github.com/jorgeprj/GetRightProject/wiki)
