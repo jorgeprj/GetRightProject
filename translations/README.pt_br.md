@@ -1,7 +1,7 @@
-# GetRightProject
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+# Get_Right Project
+[![Licença do projeto](https://img.shields.io/badge/licença-MIT-blue.svg)](./LICENSE)
 
-Get_Right Project é um jogo de simulação de gerenciamento de equipes de e-sports (a princípio focado em Counter-Strike: Global Offensive). A ideia é que você possa criar seu próprio manager, montar seu line-up, traçar estratégias para cada jogo e até mesmo trabalhar nos bastidores para transformar sua organização no maior time de esports do mundo. Cada decisão que você toma afeta diretamente o futuro de sua equipe.
+Get_Right Project é um jogo de simulação de gerenciamento de equipes de e-sports (a princípio focado em Counter-Strike: Global Offensive). A ideia é que você possa criar seu próprio manager, montar seu line-up, traçar estratégias para cada jogo e até mesmo trabalhar nos bastidores para transformar sua organização no maior time de e-sports do mundo. Cada decisão que você toma afeta diretamente o futuro de sua equipe.
 
 # FAQ/Perguntas Frequentes
 
@@ -41,3 +41,6 @@ Get_Right Project é um jogo de simulação de gerenciamento de equipes de e-spo
 Jorge Pires - [@jorgeprj](https://github.com/jorgeprj) - jorgeprj2020@gmail.com
 
 Link do Projeto: [https://github.com/jorgeprj/GetRightProject](https://github.com/jorgeprj/GetRightProjecte)
+
+## Links Uteis
+* [Wiki do Projeto](https://github.com/jorgeprj/GetRightProject/wiki)
