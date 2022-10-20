@@ -1,0 +1,80 @@
+[
+	{
+		"id": 5,
+		"firstName": "Lincoln",
+		"lastName": "Lau",
+		"nickname": "fnx",
+		"age": 32,
+		"nationality": "Brazil",
+		"status": 1,
+		"overall": 81.42857142857143,
+		"skills": {
+			"consistency": 75,
+			"clutch": 84,
+			"impact": 76,
+			"pistol": 81,
+			"rifle": 78,
+			"sniper": 76,
+			"experience": 20,
+			"marketability": 100,
+			"teamPlay": 87,
+			"tactics": 73,
+			"mental": 71,
+			"trust": 83
+		},
+		"role": "HDC",
+		"potential": 78
+	},
+	{
+		"id": 4,
+		"firstName": "Marcelo",
+		"lastName": "Chespedes",
+		"nickname": "chelo",
+		"age": 23,
+		"nationality": "Brazil",
+		"status": 1,
+		"overall": 74.57142857142857,
+		"skills": {
+			"consistency": 80,
+			"clutch": 83,
+			"impact": 85,
+			"pistol": 79,
+			"rifle": 82,
+			"sniper": 78,
+			"experience": 7,
+			"marketability": 66,
+			"teamPlay": 80,
+			"tactics": 73,
+			"mental": 75,
+			"trust": 90
+		},
+		"role": "RIF",
+		"potential": 88
+	},
+	{
+		"id": 1,
+		"firstName": "Gabriel",
+		"lastName": "Toledo",
+		"nickname": "FalleN",
+		"age": 31,
+		"nationality": "Brazil",
+		"status": 1,
+		"overall": 85.25,
+		"skills": {
+			"consistency": 78,
+			"clutch": 80,
+			"impact": 82,
+			"pistol": 78,
+			"rifle": 78,
+			"sniper": 86,
+			"experience": 20,
+			"marketability": 100,
+			"teamPlay": 100,
+			"tactics": 81,
+			"mental": 85,
+			"trust": 82
+		},
+		"role": "IGL",
+		"potential": 85
+	}
+]
